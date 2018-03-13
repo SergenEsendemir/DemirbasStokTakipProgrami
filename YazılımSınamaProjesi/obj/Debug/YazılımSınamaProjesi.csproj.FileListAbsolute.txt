@@ -1,0 +1,75 @@
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe.config
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.pdb
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.Properties.Resources.resources
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csproj.GenerateResource.Cache
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.exe
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.pdb
+c:\users\monster\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.GİRİŞ_EKRANI.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAramalar.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAnaMenu.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAdmin.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmDemirbasIslem.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaTanimlama.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaEkleSilGuncelle.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokEkleme.resources
+C:\Users\MONSTER\documents\visual studio 2015\Projects\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokGuncelleme.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe.config
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.exe
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.pdb
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.pdb
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAdmin.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAnaMenu.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAramalar.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmDemirbasIslem.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.GİRİŞ_EKRANI.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaTanimlama.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokEkleme.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokGuncelleme.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaGuncelle.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaSil.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaEkle.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe.config
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.exe
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.pdb
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.pdb
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAdmin.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAnaMenu.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAramalar.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmDemirbasIslem.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.GİRİŞ_EKRANI.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaGuncelle.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaSil.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaEkle.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaTanimlama.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokEkleme.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokGuncelleme.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\YazılımSınamaProjesi-1\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe.config
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.exe
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.pdb
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.exe
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\bin\Debug\YazılımSınamaProjesi.pdb
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAdmin.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAnaMenu.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmAramalar.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmDemirbasIslem.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.GİRİŞ_EKRANI.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaGuncelle.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaSil.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaEkle.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmOdaTanimlama.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokEkleme.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmStokGuncelleme.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\YazılımSınamaProjesi-12\YazılımSınamaProjesi\YazılımSınamaProjesi\obj\Debug\YazılımSınamaProjesi.frmRapor.resources
